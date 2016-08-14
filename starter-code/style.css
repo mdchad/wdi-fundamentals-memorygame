@@ -45,7 +45,8 @@ nav a {
 
 
 a:hover {
-	color:#ee5f3c;
+	background:#ee5f3c;
+	color: white;
 }
 
 .clearfix:after {
@@ -61,6 +62,12 @@ a:hover {
  	background: #808080;
  	clear: both;
  }
+
+ img {
+	height: 200px;
+  width: 150px;
+}
+
 
 
 
